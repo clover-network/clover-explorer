@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="297dd752-f92b-4ccb-93b0-6cc7579d8869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/active_validator.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/clover_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/clv_market_cap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/clv_price.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/header_background.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/latest_block.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/locales/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/locales/zh-CN.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609142499432</updated>
-      <workItem from="1609142500664" duration="16315000" />
+      <workItem from="1609142500664" duration="17514000" />
     </task>
     <servers />
   </component>
