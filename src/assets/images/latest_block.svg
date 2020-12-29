@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <defs>
+        <linearGradient x1="57.5038828%" y1="-75.8547415%" x2="36.8829512%" y2="138.444229%" id="linearGradient-1">
+            <stop stop-color="#8BED7F" offset="0%"></stop>
+            <stop stop-color="#48C079" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-467.000000, -424.000000)">
+            <g id="rank" transform="translate(100.000000, 391.000000)">
+                <g id="Group-20" transform="translate(369.000000, 24.000000)">
+                    <g id="Group-11" transform="translate(0.000000, 10.000000)">
+                        <rect id="Rectangle" fill="url(#linearGradient-1)" x="5.56034483" y="0" width="15.9396552" height="17.7931034" rx="3"></rect>
+                        <path d="M3,1.11206897 L17.7931034,1.11206897 L17.7931034,1.11206897 L17.7931034,21.1293103 L3,21.1293103 C1.34314575,21.1293103 4.18663625e-15,19.7861646 0,18.1293103 L0,4.11206897 C2.41183085e-16,2.45521472 1.34314575,1.11206897 3,1.11206897 Z" id="Rectangle" stroke="#333333" stroke-width="3"></path>
+                        <line x1="5.56034483" y1="6.67241379" x2="12.9741379" y2="6.67241379" id="Line-2" stroke="#333333" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="5.56034483" y1="11.1206897" x2="9.26724138" y2="11.1206897" id="Line-3" stroke="#333333" stroke-width="2" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

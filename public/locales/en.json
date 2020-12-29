@@ -1,0 +1,31 @@
+{
+  "logoImageDescription": "clover logo",
+  "logoText": "CLOVER",
+
+  "transactionHistory": "Transaction History",
+  "polkadotChain": "Polkadot Chain",
+
+  "netWorth": "Net Worth",
+  "totalAssets": "Total Assets",
+  "dailyEarned": "Est Daily Intr Earned",
+  "totalDebts": "Total Debts",
+  "dailyAccrued": "Est Daily Intr Accrued",
+
+  "walletAssets": "WALLET ASSETS",
+  "columnHeaderAssets": "ASSETS",
+  "columnHeaderPrice": "PRICE",
+  "columnHeaderBalance": "BALANCE",
+  "columnHeaderValue": "VALUE",
+
+  "compound": "Compound",
+  "supplied": "Supplied",
+  "collateralRate": "Collateral Rate",
+  "unclaimedComp": "Unclaimed COMP",
+  "borrowed": "Borrowed",
+
+  "columnHeaderSupplied": "SUPPLIED",
+  "columnHeaderBorrowed": "BORROWED",
+  "columnHeaderAsCollateral": "AS COLLATERAL",
+  "columnHeaderCompMintApy": "COMP MINT APY",
+  "columnHeaderApy": "APY"
+}

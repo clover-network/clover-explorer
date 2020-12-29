@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1204px" height="423px" viewBox="0 0 1204 423" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 24</title>
+    <defs>
+        <path d="M620.21817,39 C847.431889,39 1053.44923,129.752461 1203.99973,276.986903 L36.43634,276.987168 C186.986858,129.75257 393.004315,39 620.21817,39 Z" id="path-1"></path>
+        <polygon id="path-3" points="0 186.881119 66.3467852 143.370629 132.69357 99.8601399 247.551984 55.6363636 362.410397 11.4125874 506.518468 0 741.942544 28.5314685 844.673051 62.7692308 981.647059 139.804196 1043 186.881119"></polygon>
+        <filter x="-1.7%" y="-8.0%" width="103.3%" height="116.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="11" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.153405347   0 0 0 0 0.33830182   0 0 0 0 0.574558424  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="14" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.192859632   0 0 0 0 0.396170963   0 0 0 0 0.791157156  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-100.000000, -101.000000)">
+            <g id="bg" transform="translate(0.000000, 54.000000)">
+                <g id="Group-24" transform="translate(100.000000, 47.000000)">
+                    <g id="Group-5" transform="translate(0.000000, 146.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#000000" opacity="0.0663829985" style="mix-blend-mode: normal;" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-3" opacity="0.495279948" transform="translate(98.000000, 143.559441)">
+                        <g id="Path-18">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <path stroke="#7B94FF" stroke-width="1" d="M506.528913,-0.502392664 L362.298519,10.919882 L247.372326,55.1697555 L132.464051,99.4127298 L66.0725874,142.95252 L-1.6741732,187.381119 L1044.47297,187.381119 L981.92319,139.385843 L844.876488,62.3099943 L742.052778,28.0411695 L506.528913,-0.502392664 Z"></path>
+                        </g>
+                        <polyline id="Path-19" stroke="#FFFFFF" points="132.69357 99.8601399 253.97264 68.4755245 315.325581 68.4755245 362.410397 11.4125874 406.641587 19.972028 506.518468 0 529.347469 35.6643357 550.749658 87.020979 535.05472 139.804196 626.370725 195.440559 612.102599 94.1538462"></polyline>
+                        <polyline id="Path-20" stroke="#FFFFFF" points="506.518468 0 614.956224 41.3706294 612 94.4405594 741.942544 28.5314685 781.893297 195.440559"></polyline>
+                        <polyline id="Path-21" stroke="#FFFFFF" points="506.518468 0 612.102599 94.1538462 672.028728 47.0769231 614.956224 41.3706294"></polyline>
+                        <polyline id="Path-22" stroke="#FFFFFF" points="614.956224 41.3706294 737.662107 106.993007 754.783858 74.1818182"></polyline>
+                        <polyline id="Path-23" stroke="#FFFFFF" points="550.749658 87.020979 612.102599 94.1538462 535.05472 139.804196"></polyline>
+                        <line x1="612.102599" y1="94.1538462" x2="557.883721" y2="195.440559" id="Path-24" stroke="#FFFFFF"></line>
+                        <line x1="612.102599" y1="94.1538462" x2="887.477428" y2="195.440559" id="Path-25" stroke="#FFFFFF"></line>
+                        <polyline id="Path-26" stroke="#FFFFFF" points="9.9876881 186.881119 175.497948 139.804196 122.705882 195.440559"></polyline>
+                        <line x1="175.497948" y1="139.804196" x2="253.97264" y2="68.4755245" id="Path-27" stroke="#FFFFFF"></line>
+                    </g>
+                    <g id="Group-8" transform="translate(190.000000, 234.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval" fill-opacity="0.2" cx="8.56087551" cy="8.55944056" rx="8.56087551" ry="8.55944056"></ellipse>
+                        <circle id="Oval" cx="8.56087551" cy="8.55944056" r="4"></circle>
+                    </g>
+                    <circle id="Oval" fill="#FFFFFF" opacity="0.0699404762" style="mix-blend-mode: luminosity;" cx="238" cy="243" r="4"></circle>
+                    <g id="Group-8" transform="translate(667.000000, 229.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval" fill-opacity="0.2" cx="8.56087551" cy="8.55944056" rx="8.56087551" ry="8.55944056"></ellipse>
+                        <circle id="Oval" cx="8.56087551" cy="8.55944056" r="4"></circle>
+                    </g>
+                    <g id="Group-19" transform="translate(309.000000, 0.000000)" fill="#FFFFFF">
+                        <circle id="Oval" cx="1.5" cy="123.5" r="1.5"></circle>
+                        <circle id="Oval" cx="157.5" cy="236.5" r="1.5"></circle>
+                        <circle id="Oval" cx="339.5" cy="230.5" r="1.5"></circle>
+                        <circle id="Oval" cx="468.5" cy="1.5" r="1.5"></circle>
+                        <circle id="Oval" opacity="0.533505394" cx="742.5" cy="216.5" r="1.5"></circle>
+                        <circle id="Oval" opacity="0.316964286" cx="723.5" cy="242.5" r="1.5"></circle>
+                        <circle id="Oval" cx="263.5" cy="121.5" r="1.5"></circle>
+                        <g id="Group-8" opacity="0.16359747" transform="translate(143.000000, 147.000000)">
+                            <ellipse id="Oval" fill-opacity="0.2" filter="url(#filter-5)" cx="8.56087551" cy="8.55944056" rx="8.56087551" ry="8.55944056"></ellipse>
+                            <circle id="Oval" filter="url(#filter-6)" cx="8.56087551" cy="8.55944056" r="4"></circle>
+                        </g>
+                        <g id="Group-8" opacity="0.177292597" transform="translate(287.000000, 135.000000)">
+                            <ellipse id="Oval" fill-opacity="0.2" filter="url(#filter-7)" cx="8.56087551" cy="8.55944056" rx="8.56087551" ry="8.55944056"></ellipse>
+                            <circle id="Oval" filter="url(#filter-8)" cx="8.56087551" cy="8.55944056" r="4"></circle>
+                        </g>
+                        <g id="Group-8" transform="translate(689.000000, 233.000000)">
+                            <ellipse id="Oval" fill-opacity="0.2" cx="8.56087551" cy="8.55944056" rx="8.56087551" ry="8.55944056"></ellipse>
+                            <circle id="Oval" cx="8.56087551" cy="8.55944056" r="4"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

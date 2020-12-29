@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="23px" viewBox="0 0 29 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <defs>
+        <linearGradient x1="52.811234%" y1="-75.8547415%" x2="45.0858649%" y2="138.444229%" id="linearGradient-1">
+            <stop stop-color="#8BED7F" offset="0%"></stop>
+            <stop stop-color="#48C079" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-136.000000, -518.000000)">
+            <g id="rank" transform="translate(100.000000, 391.000000)">
+                <g id="list/homeranking" transform="translate(36.000000, 113.000000)">
+                    <g id="Group-4">
+                        <g id="Group-7" transform="translate(0.000000, 14.000000)">
+                            <rect id="Rectangle" fill="#333333" x="2.35911065" y="0" width="24" height="17" rx="1"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="5.35911065" y="3" width="18" height="11"></rect>
+                            <g id="Group-6" transform="translate(14.359111, 8.500000) scale(1, -1) translate(-14.359111, -8.500000) translate(7.859111, 5.000000)" fill="url(#linearGradient-1)">
+                                <rect id="Rectangle" x="5.30573672" y="1.58926719" width="2.82131864" height="5.14540357" rx="1"></rect>
+                                <rect id="Rectangle" x="9.95171597" y="4.26325641e-14" width="2.82131864" height="5.14540357" rx="1"></rect>
+                                <rect id="Rectangle" x="0.659757468" y="4.26325641e-14" width="2.82131864" height="5.14540357" rx="1"></rect>
+                            </g>
+                            <path d="M0.359110647,19.5428819 L28.3591106,19.5428819 L28.3591106,19.9506487 C28.3591106,21.6075029 27.0159649,22.9506487 25.3591106,22.9506487 L3.35911065,22.9506487 C1.7022564,22.9506487 0.359110647,21.6075029 0.359110647,19.9506487 L0.359110647,19.5428819 L0.359110647,19.5428819 Z" id="Rectangle" fill="#333333"></path>
+                            <line x1="9.63688842" y1="20" x2="19.0813329" y2="20" id="Line" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

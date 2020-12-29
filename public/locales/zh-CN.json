@@ -1,0 +1,31 @@
+{
+  "logoImageDescription": "clover的徽标",
+  "logoText": "CLOVER",
+
+  "transactionHistory": "交易历史",
+  "polkadotChain": "波卡链",
+
+  "netWorth": "净值",
+  "totalAssets": "总资产",
+  "dailyEarned": "每日收益",
+  "totalDebts": "总负债",
+  "dailyAccrued": "每日累积",
+
+  "walletAssets": "钱包资产",
+  "columnHeaderAssets": "资产",
+  "columnHeaderPrice": "价格",
+  "columnHeaderBalance": "余额",
+  "columnHeaderValue": "价格",
+
+  "compound": "聚合",
+  "supplied": "供给",
+  "collateralRate": "抵押率",
+  "unclaimed COMP": "未提取",
+  "borrowed": "借贷",
+
+  "columnHeaderSupplied": "提供",
+  "columnHeaderBorrowed": "借款",
+  "columnHeaderAsCollateral": "作为抵押",
+  "columnHeaderCompMintApy": "可收益部分",
+  "columnHeaderApy": "年收益"
+}
