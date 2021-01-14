@@ -2,7 +2,7 @@ import React, {Component, ReactElement} from 'react'
 import styled  from 'styled-components'
 
 const FooterWrapper = styled.div`
-  background-color: #1D3F52;
+  background: linear-gradient(186deg, #3E738A 0%, #1D3F52 100%);
 `
 const FooterContainer = styled.div`
   height: 80px;

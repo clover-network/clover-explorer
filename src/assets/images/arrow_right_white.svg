@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="14px" viewBox="0 0 13 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>right</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-1-contract-detail/txn" transform="translate(-1244.000000, -1483.000000)">
+            <g id="Stacked-Group-2" transform="translate(1071.000000, 1473.500000)">
+                <g id="&gt;" transform="translate(163.000000, 0.000000)">
+                    <g id="通用/Icon图标/Line/Right" transform="translate(10.000000, 10.000000)">
+                        <g id="right">
+                            <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="12.8" height="12.8"></rect>
+                            <path d="M9.95,2.66645219 L9.95,1.70020219 C9.95,1.61645219 9.85375,1.57020219 9.78875,1.62145219 L4.15375,6.02270219 C3.94875,6.18270219 3.94875,6.49145219 4.15375,6.65145219 L9.78875,11.0527022 C9.855,11.1039522 9.95,11.0577022 9.95,10.9739522 L9.95,10.0077022 C9.95,9.94645219 9.92125,9.88770219 9.87375,9.85020219 L5.37375,6.33770219 L9.87375,2.82395219 C9.92125,2.78645219 9.95,2.72770219 9.95,2.66645219 Z" id="路径" fill="#FFFFFF" transform="translate(6.975000, 6.337077) scale(-1, 1) translate(-6.975000, -6.337077) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

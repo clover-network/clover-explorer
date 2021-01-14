@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>路径</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.65">
+        <g id="02-1-contract-detail/txn" transform="translate(-1137.000000, -1444.000000)" fill="#001831">
+            <g id="Stacked-Group-2" transform="translate(1071.000000, 1433.000000)">
+                <g id="&lt;" transform="translate(53.000000, 0.000000)">
+                    <g id="通用/Icon图标/Line/left" transform="translate(10.000000, 10.000000)">
+                        <g id="left">
+                            <path d="M9.05,2.72875 L9.05,1.7625 C9.05,1.67875 8.95375,1.6325 8.88875,1.68375 L3.25375,6.085 C3.04875,6.245 3.04875,6.55375 3.25375,6.71375 L8.88875,11.115 C8.955,11.16625 9.05,11.12 9.05,11.03625 L9.05,10.07 C9.05,10.00875 9.02125,9.95 8.97375,9.9125 L4.47375,6.4 L8.97375,2.88625 C9.02125,2.84875 9.05,2.79 9.05,2.72875 Z" id="路径"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

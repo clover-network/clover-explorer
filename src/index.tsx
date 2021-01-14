@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import { Provider } from 'react-redux'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './index.css';
+import '@clover-network/fonts-clover/style.css';
 import ThemeProvider, { ThemedGlobalStyle } from './theme'
 import App from './pages/App'
 import store from './state'

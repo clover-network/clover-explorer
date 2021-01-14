@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/small</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-1-contract-detail/txn" transform="translate(-576.000000, -641.000000)">
+            <g id="Group-7" transform="translate(532.000000, 634.000000)">
+                <g id="icon/small" transform="translate(38.000000, 0.500000)">
+                    <g id="Group-11">
+                        <g id="icon/small/transparent" fill="#FFFFFF" opacity="0">
+                            <rect id="Rectangle" x="0" y="0" width="24" height="24" rx="4"></rect>
+                        </g>
+                        <g id="icon/small/filter" transform="translate(4.000000, 4.000000)">
+                            <g id="other_复制" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, -2.000000)" fill="#000000" opacity="0">
+                                <rect id="Rectangle" fill-rule="nonzero" x="0" y="2" width="16" height="16"></rect>
+                                <g id="二维码" fill-rule="nonzero">
+                                    <rect id="Rectangle" x="1" y="0" width="16" height="16"></rect>
+                                    <g transform="translate(0.000000, 2.000000)" id="Rectangle">
+                                        <rect x="0" y="0" width="16" height="16"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <path d="M13.3853037,3.4125 L8.72280366,9 L8.72280366,12.25 C8.72280366,12.325 8.68530366,12.4 8.63530366,12.45 L7.13530366,13.675 C6.97280366,13.8125 6.72280366,13.6875 6.72280366,13.475 L6.72280366,9 L2.06030366,3.4125 C1.92280366,3.25 2.03530366,3 2.24780366,3 L13.1853037,3 C13.3978037,3 13.5228037,3.25 13.3853037,3.4125 Z" id="Path" fill-opacity="0.6" fill="#001831" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

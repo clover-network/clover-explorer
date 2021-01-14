@@ -1,12 +1,15 @@
 import React, { Suspense, Component } from 'react'
 import { HashRouter, Route, Switch } from 'react-router-dom'
 import styled from 'styled-components'
-import { isMobile } from 'react-device-detect'
-
-import Header from '../components/Header'
 import Footer from '../components/Footer'
 
-import Assets from './Assets'
+import FirstPage from './FirstPage'
+import Contract from './Contract'
+import OwnershipHistory from './OwnershipHistory'
+import TransactionDetails from './TransactionDetails'
+import OwnerAddress from './OwnerAddress'
+import ContractManagement from './ContractManage'
+import ErrorPage from './ErrorPage'
 
 const AppWrapper = styled.div`
   display: flex;
@@ -15,13 +18,7 @@ const AppWrapper = styled.div`
   align-items: stretch;
   min-height: 350px;
   overflow: auto;
-`;
-
-const HeaderWrapper = styled.div`
-  width: 1240px;
-  margin: 0 auto;
-  padding: 20px 0 0 0;
-  background-color: red;
+  background-color: #f5f5f5;
 `;
 
 const BodyWrapper = styled.div`
@@ -29,49 +26,31 @@ const BodyWrapper = styled.div`
   flex-direction: column;
   width: 100%;
   align-items: center;
-
   flex: 1;
   overflow-y: auto;
   overflow-x: hidden;
-
   z-index: 1;
 `;
 
 export default class App extends Component<any, any> {
   constructor(props: any, context: any) {
     super(props, context);
-    this.state = {
-      showMobile: isMobile
-    }
-  }
-
-  componentDidMount() {
-    const that = this;
-    window.onresize = function () {
-      if (window.innerWidth < 750) {
-        that.setState({showMobile: true})
-      } else {
-        that.setState({showMobile: false})
-      }
-    }
   }
 
   render() {
-    // const { showMobile } = this.state;
     return (
         <Suspense fallback={null}>
           <HashRouter>
             <AppWrapper>
-              {/*{(!isMobile && !showMobile) &&*/}
-              {/*    <HeaderWrapper>*/}
-              {/*      <img src={CloverLogo} width='182' height='54' alt=""/>*/}
-              {/*    </HeaderWrapper>*/}
-              {/*}*/}
-              <Header></Header>
               <BodyWrapper>
                 <Switch>
-                  <Route exact strict path="/" component={Assets} />
-                  {/*<Route exact strict path="/assets" component={Assets} />*/}
+                  <Route exact strict path="/" component={FirstPage} />
+                  <Route exact strict path="/contract" component={Contract} />
+                  <Route exact strict path="/ownershipHistory" component={OwnershipHistory} />
+                  <Route exact strict path="/ownerAddress" component={OwnerAddress} />
+                  <Route exact strict path="/transactionDetails" component={TransactionDetails} />
+                  <Route exact strict path="/contractManage" component={ContractManagement} />
+                  <Route exact strict path="/errorPage" component={ErrorPage} />
                 </Switch>
               </BodyWrapper>
               <Footer></Footer>

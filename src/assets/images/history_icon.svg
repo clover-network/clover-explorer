@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/small</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-1-contract-detail/txn" transform="translate(-1223.000000, -435.000000)">
+            <g id="Stacked-Group" transform="translate(761.000000, 342.000000)">
+                <g id="Group-3" transform="translate(0.000000, 93.000000)">
+                    <g id="Stacked-Group-5" transform="translate(462.000000, 0.500000)">
+                        <g id="icon/small-2">
+                            <g id="icon/small">
+                                <g id="Group-11">
+                                    <g id="icon/small/whitebg" fill="#FFFFFF">
+                                        <rect id="Rectangle" x="0" y="0" width="24" height="24" rx="4"></rect>
+                                    </g>
+                                    <g id="icon/small/histry2" transform="translate(4.000000, 4.000000)">
+                                        <g id="历史" transform="translate(1.000000, 1.000000)">
+                                            <path d="M7,14 C3.11111112,14 0,10.8888889 0,7 C0,3.11111112 3.11111112,0 7,0 C10.8888889,0 14,3.11111112 14,7 C14,10.8888889 10.8888889,14 7,14 Z" id="Shape" fill-opacity="0.6" fill="#001831" fill-rule="nonzero"></path>
+                                            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="8.80851063 10 6 7.34482759 6 3 7.70212766 3 7.70212766 6.70114942 10 8.87356321"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

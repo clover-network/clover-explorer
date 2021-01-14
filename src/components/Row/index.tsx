@@ -27,7 +27,7 @@ export const RowFit = styled(Row)`
   width: fit-content;
 `
 
-export const RowCenter = styled(RowFit)`
+export const RowCenter = styled(Row)`
   justify-content: center
 `
 

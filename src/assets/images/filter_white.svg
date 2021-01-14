@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="11px" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/small</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-1-contract-detail/txn" transform="translate(-778.000000, -728.000000)">
+            <g id="Group-27" transform="translate(747.000000, 661.000000)">
+                <g id="Group-26" transform="translate(25.000000, 59.000000)">
+                    <g id="icon/small" transform="translate(0.500000, 0.000000)">
+                        <g id="Group-11">
+                            <g id="icon/small/transparent" fill="#FFFFFF" opacity="0">
+                                <rect id="Rectangle" x="0" y="0" width="24" height="24" rx="4"></rect>
+                            </g>
+                            <g id="icon/small/filter" transform="translate(4.000000, 4.000000)">
+                                <g id="other_复制" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, -2.000000)" fill="#000000" opacity="0">
+                                    <rect id="Rectangle" fill-rule="nonzero" x="0" y="2" width="16" height="16"></rect>
+                                    <g id="二维码" fill-rule="nonzero">
+                                        <rect id="Rectangle" x="1" y="0" width="16" height="16"></rect>
+                                        <g transform="translate(0.000000, 2.000000)" id="Rectangle">
+                                            <rect x="0" y="0" width="16" height="16"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                                <path d="M11.6500755,4.80743957 L3.61527964,5.10535897 L7.44924228,9.69994691 L7.97280366,12.9153909 L7.97280366,9.75167056 L11.6500755,4.80743957 Z" id="Path" stroke="#FFFFFF" stroke-width="1.5" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
